@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/that-open-source-project/charatize/issues"
   },
-  "homepage": "https://github.com/that-open-source-project/charatize#readme"
+  "homepage": "https://github.com/that-open-source-project/charatize#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
+  }
 }
